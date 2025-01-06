@@ -739,7 +739,8 @@ video {
   width: 100%;
   padding: 1.5rem;
   font-size: 1.6rem;
-  color: black;
+  background-color: black;
+  color: white;
   border-radius: 1rem;
   border: 2px solid #4278ff;
   margin: 0.5rem 0;
